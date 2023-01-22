@@ -10,3 +10,4 @@
 
 `npm run build`
 
+[Hosted App on Firebase](https://veralee-counterapp.web.app/)
